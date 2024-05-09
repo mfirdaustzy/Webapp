@@ -63,4 +63,4 @@ jobs:
           app-name: 'DemoWebResepi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_923826F2854A487D809B52ED8BCDC809 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_390DB611D68743678CBC960A9318DE8A }}
